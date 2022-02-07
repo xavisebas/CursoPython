@@ -1,15 +1,15 @@
-#Nuestro 1er Script
+#Nuestro primer script
 '''
-es
-un
-cometario
-largo
+A
+A
+A
+A
+Este es un comentario largo
 '''
 
-#Entrada de datos con input
-#Salida de datos con print
-#no diferencia comillas simples o dobles
+# Entrada de datos se realiza con input
+# Salida de datos se realiza con print
 print('Formulario')
 print('Ingresa tu nombre: ')
 nombre = input()
-print('El nombre ingresado es:',nombre)
+print('El nombre ingresado es: ',nombre)

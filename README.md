@@ -1,2 +1,2 @@
-# CursoPython
-Curso Python EPN 2022
+# PythonTraining
+Capacitación Python 2022

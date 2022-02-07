@@ -1,24 +1,25 @@
-#Function entrada y salida
-#Va a buscar las palabras reservadas
+# Función entrada y función de salida
+# Va a buscar las palabras reservas
 
-#Arguneto a lafuncion, ''->string
+#Argumento a la función, '' -> string
 print('Formulario')
-print('Nombre: ',end='')
-#inout -> Entrada de datos
+print('Nombre: ', end='')
+# Input -> entrada datos
 nombre = input()
-print('Apellido: ',end='')
+print('Apellido: ', end='')
 apellido = input()
-print('Edad: ',end='')
+print('Edad: ', end='')
 edad = input()
 
-#primer reto
-ciudad = input('Ingresa tu ciudad:')
+# Primer reto curso, implicita print
+ciudad = input('Ingresa tu ciudad: ')
 
 print('El nombre ingresado es: ',nombre)
 print('El apellido ingresado es: ',apellido)
-print('La edad ingresada es: ',edad)
+print('Tu edad ingresada es: ',edad)
 print('Tu ciudad ingresada es: ',ciudad)
 
 
+# Python es un lenguaje 100% orientado a objetos
 
-#python es un lenguaje 100% Orientado a Objetos
+
